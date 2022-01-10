@@ -10,9 +10,9 @@ export default function LandingPage() {
   const text1 = useRef([]);
   const textAnimData = [
     { value: "Web Developer" },
-    { value: "Designer" },
-    { value: "Mobile Developer" },
-    { value: "Digital Marketer" },
+    { value: "Graphic Designer" },
+    { value: "Mobile App Developer" },
+    { value: "Digital Marketing Expert  " },
     { value: "SEO Expert" },
   ];
   useEffect(() => {
